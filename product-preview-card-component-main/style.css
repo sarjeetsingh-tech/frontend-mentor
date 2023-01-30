@@ -104,7 +104,7 @@ button {
 
 button:hover {
     background-color: rgb(8, 83, 8);
-    ;
+    cursor:pointer;
 }
 
 .credits {
@@ -143,7 +143,7 @@ button:hover {
     }
 
     div:nth-of-type(3) {
-        padding: 10px;
+        padding: 20px;
         height: 450px;
         border-top-left-radius: 0px;
 
