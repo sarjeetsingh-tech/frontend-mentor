@@ -1,4 +1,4 @@
-![image](https://github.com/sarjeetsingh-tech/frontend-mentor/assets/104495979/de771845-20d3-45b2-854b-efb0fa708eda)# Product Preview Card Component
+# Product Preview Card Component
 
 Welcome to the Product Preview Card Component project! This project features a responsive card component showcasing a perfume product with a modern design.
 
